@@ -160,9 +160,7 @@ git push origin feature/your-feature-name
 
 ## Please ensure your code is clean, commented, and follows the existing style conventions. Open an issue first for major changes.
 
-## Author
-
-## Team Infinite Loopers
+## Made by Infinite Loopers
 
 <div align="center">
 **Built for India's 47 million blue-collar workers.**
