@@ -16,7 +16,7 @@ export default function MentorScreen() {
   const askAI = async () => {
     try {
       const response = await axios.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyA8Z0fPi05IQ-3L5-u59zwBBTOArI1RHes",
+        'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${process.env.EXPO_PUBLIC_GEMINI_API_KEY}`,
         {
           contents: [
             {
