@@ -25,8 +25,6 @@ India has **47 million blue-collar workers** who need quality skill training. Ex
 | YouTube | Free | Mixed | ✗ | Partial |
 | **KaushalAR** | **₹8,000 phone** | **Hindi + 11 langs** | **✓** | **✓** |
 
----
-
 ## Features
 
 ### AR Overlay Training
@@ -65,8 +63,6 @@ Levels:  Beginner → Intermediate → Advanced → Expert
 Badges:  First Step · Electrician · Centurion · 3-Day Streak · Expert
 ```
 
----
-
 ## Tech Stack
 
 ```yaml
@@ -77,8 +73,6 @@ Offline Storage: AsyncStorage with sync queue
 Certificate: DigiLocker API + native Share API
 Backend (v2): Node.js + Express + PostgreSQL
 ```
-
----
 
 ## Getting Started
 
@@ -113,8 +107,6 @@ Open **Expo Go** on your phone, scan the QR code, and the app loads instantly.
 # 4. Hindi AI mentor is now live
 ```
 
----
-
 ## Project Structure
 
 ```
@@ -129,8 +121,6 @@ KaushalAR/
 └── README.md
 ```
 
----
-
 ## Roadmap
 
 ```
@@ -143,8 +133,6 @@ v2.2  🔮  Peer learning — student-to-student mentorship
 v3.0  🔮  NSDC empanelment + state government MoU integration
 ```
 
----
-
 ## Business Model
 
 KaushalAR operates a B2B2C model with four revenue channels:
@@ -155,8 +143,6 @@ KaushalAR operates a B2B2C model with four revenue channels:
 | Per-Hire Fee | Employers hiring students | ₹3,000–8,000 per placement |
 | Student Premium | Self-funded learners | ₹99–299 / month |
 **Year 1 Target:** ₹80L ARR · 10 pilot ITIs · 5,000 active students
-
----
 
 ## Contributing
 
