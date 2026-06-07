@@ -160,13 +160,4 @@ git push origin feature/your-feature-name
 
 ## Please ensure your code is clean, commented, and follows the existing style conventions. Open an issue first for major changes.
 
-## Made by Infinite Loopers
-
-<div align="center">
-**Built for India's 47 million blue-collar workers.**
-*Skill them. Certify them. Employ them.*
-
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/KaushalAR?style=social)](https://github.com/yourusername/KaushalAR)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=100&section=footer" width="100%"/>
-
-</div>
+## Made by Team Infinite Loopers 
